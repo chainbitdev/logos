@@ -1,5 +1,5 @@
 {
   "name": "Ethereum (Polygon)",
-  "code": "eth_polygon",
+  "code": "ETH_POLYGON",
   "aliases": ["ethereum-polygon", "eth_polygon"]
 }

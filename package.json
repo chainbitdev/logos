@@ -1,11 +1,12 @@
 {
   "name": "@chainbitdev/logos",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "format:json": "prettier --write \"./logos/**/*.json\"",
-    "format:svg": "svgo -f ./logos/**/ -o ./logos/**"
+    "format:svg": "svgo -f ./logos/**/ -o ./logos/**",
+    "lint": "node bin/lint.js"
   },
   "repository": {
     "type": "git",
