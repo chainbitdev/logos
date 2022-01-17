@@ -1,0 +1,1 @@
+# SVG Cryptocurrency Logos

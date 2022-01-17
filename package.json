@@ -1,0 +1,24 @@
+{
+  "name": "@chainbit/logos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format:json": "prettier --write \"./logos/**/*.json\"",
+    "format:svg": "svgo -f ./logos/**/ -o ./logos/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chainbitdev/logos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chainbitdev/logos/issues"
+  },
+  "homepage": "https://github.com/chainbitdev/logos#readme",
+  "dependencies": {
+    "prettier": "^2.5.1",
+    "svgo": "^2.8.0"
+  }
+}
