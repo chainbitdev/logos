@@ -1,1 +1,5 @@
-{"name":"Block CAT","code":"CAT","aliases":["block-cat","cat"]}
+{
+  "name": "Block CAT",
+  "code": "CAT",
+  "aliases": ["block-cat", "cat"]
+}

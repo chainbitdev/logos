@@ -1,1 +1,5 @@
-{"name":"SwissBorg","code":"CHSB","aliases":["swissborg","chsb"]}
+{
+  "name": "SwissBorg",
+  "code": "CHSB",
+  "aliases": ["swissborg", "chsb"]
+}

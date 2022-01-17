@@ -1,1 +1,5 @@
-{"name":"Karatgold Coin","code":"KBC","aliases":["karatgold-coin","kbc"]}
+{
+  "name": "Karatgold Coin",
+  "code": "KBC",
+  "aliases": ["karatgold-coin", "kbc"]
+}

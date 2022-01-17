@@ -1,1 +1,5 @@
-{"name":"Dragon Coins","code":"DRG","aliases":["dragon-coins","drg"]}
+{
+  "name": "Dragon Coins",
+  "code": "DRG",
+  "aliases": ["dragon-coins", "drg"]
+}

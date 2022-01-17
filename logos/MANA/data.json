@@ -1,1 +1,5 @@
-{"name": "Decentraland", "code": "mana", "aliases": ["decentraland", "mana"]}
+{
+  "name": "Decentraland",
+  "code": "mana",
+  "aliases": ["decentraland", "mana"]
+}

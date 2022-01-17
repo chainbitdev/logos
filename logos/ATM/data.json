@@ -1,1 +1,5 @@
-{"name":"Chain ATM","code":"ATM","aliases":["chain-atm","atm"]}
+{
+  "name": "Chain ATM",
+  "code": "ATM",
+  "aliases": ["chain-atm", "atm"]
+}

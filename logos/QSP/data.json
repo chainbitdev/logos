@@ -1,1 +1,5 @@
-{"name":"Quantstamp","code":"QSP","aliases":["quantstamp","qsp"]}
+{
+  "name": "Quantstamp",
+  "code": "QSP",
+  "aliases": ["quantstamp", "qsp"]
+}

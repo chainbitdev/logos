@@ -1,1 +1,5 @@
-{"name":"MediBloc","code":"MED","aliases":["medibloc","med"]}
+{
+  "name": "MediBloc",
+  "code": "MED",
+  "aliases": ["medibloc", "med"]
+}

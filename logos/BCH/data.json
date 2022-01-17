@@ -1,1 +1,5 @@
-{"name":"Bitcoin Cash","code":"bch","aliases":["bitcoin-cash","bch"]}
+{
+  "name": "Bitcoin Cash",
+  "code": "BCH",
+  "aliases": ["bitcoin-cash", "bch"]
+}

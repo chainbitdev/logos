@@ -1,1 +1,5 @@
-{"name":"Waltonchain","code":"WTC","aliases":["waltonchain","wtc"]}
+{
+  "name": "Waltonchain",
+  "code": "WTC",
+  "aliases": ["waltonchain", "wtc"]
+}

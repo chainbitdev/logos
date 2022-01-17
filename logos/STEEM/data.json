@@ -1,1 +1,5 @@
-{"name":"Steem","code":"STEEM","aliases":["steem"]}
+{
+  "name": "Steem",
+  "code": "STEEM",
+  "aliases": ["steem"]
+}

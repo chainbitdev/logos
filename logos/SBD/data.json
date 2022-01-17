@@ -1,1 +1,5 @@
-{"name":"Steem Dollars","code":"SBD","aliases":["steem-dollars","sbd"]}
+{
+  "name": "Steem Dollars",
+  "code": "SBD",
+  "aliases": ["steem-dollars", "sbd"]
+}

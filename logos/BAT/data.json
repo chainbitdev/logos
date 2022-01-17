@@ -1,1 +1,5 @@
-{"name":"Basic Attention Token","code":"bat","aliases":["basic-attention token","bat"]}
+{
+  "name": "Basic Attention Token",
+  "code": "bat",
+  "aliases": ["basic-attention token", "bat"]
+}

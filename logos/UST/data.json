@@ -1,1 +1,5 @@
-{"name":"Terra USD","code":"ust","aliases":["terra-usd","ust"]}
+{
+  "name": "Terra USD",
+  "code": "ust",
+  "aliases": ["terra-usd", "ust"]
+}

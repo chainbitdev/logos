@@ -1,1 +1,5 @@
-{"name":"Feathercoin","code":"FTC","aliases":["feathercoin","ftc"]}
+{
+  "name": "Feathercoin",
+  "code": "FTC",
+  "aliases": ["feathercoin", "ftc"]
+}

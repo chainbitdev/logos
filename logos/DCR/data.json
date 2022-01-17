@@ -1,1 +1,5 @@
-{"name":"Decred","code":"DCR","aliases":["decred","dcr"]}
+{
+  "name": "Decred",
+  "code": "DCR",
+  "aliases": ["decred", "dcr"]
+}

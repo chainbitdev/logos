@@ -1,1 +1,5 @@
-{"name":"HyperCash","code":"HC","aliases":["hypercash","hc"]}
+{
+  "name": "HyperCash",
+  "code": "HC",
+  "aliases": ["hypercash", "hc"]
+}

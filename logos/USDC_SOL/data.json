@@ -1,1 +1,5 @@
-{"name":"USD Coin (Solana)","code":"usdc_sol","aliases":["usd-coin (solana)","usdc_sol"]}
+{
+  "name": "USD Coin (Solana)",
+  "code": "USDC_SOL",
+  "aliases": ["usd-coin-solana", "usdc_sol"]
+}

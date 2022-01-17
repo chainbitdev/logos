@@ -1,1 +1,5 @@
-{"name":"Nervos Network","code":"CKB","aliases":["nervos-network","ckb"]}
+{
+  "name": "Nervos Network",
+  "code": "CKB",
+  "aliases": ["nervos-network", "ckb"]
+}

@@ -1,1 +1,5 @@
-{"name":"FTX Token","code":"FTT","aliases":["ftx-token","ftt"]}
+{
+  "name": "FTX Token",
+  "code": "FTT",
+  "aliases": ["ftx-token", "ftt"]
+}

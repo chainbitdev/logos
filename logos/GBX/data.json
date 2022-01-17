@@ -1,1 +1,5 @@
-{"name":"GoByte","code":"GBX","aliases":["gobyte","gbx"]}
+{
+  "name": "GoByte",
+  "code": "GBX",
+  "aliases": ["gobyte", "gbx"]
+}

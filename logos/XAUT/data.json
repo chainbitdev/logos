@@ -1,1 +1,5 @@
-{"name":"Tether Gold","code":"XAUT","aliases":["tether-gold","xaut"]}
+{
+  "name": "Tether Gold",
+  "code": "XAUT",
+  "aliases": ["tether-gold", "xaut"]
+}

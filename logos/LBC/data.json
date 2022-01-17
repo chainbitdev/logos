@@ -1,1 +1,5 @@
-{"name":"LBRY Credits","code":"LBC","aliases":["lbry-credits","lbc"]}
+{
+  "name": "LBRY Credits",
+  "code": "LBC",
+  "aliases": ["lbry-credits", "lbc"]
+}

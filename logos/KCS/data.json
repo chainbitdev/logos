@@ -1,1 +1,5 @@
-{"name":"KuCoin Shares","code":"KCS","aliases":["kucoin-shares","kcs"]}
+{
+  "name": "KuCoin Shares",
+  "code": "KCS",
+  "aliases": ["kucoin-shares", "kcs"]
+}

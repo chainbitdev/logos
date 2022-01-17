@@ -1,1 +1,5 @@
-{"name":"Shiba Inu (ERC-20)","code":"shib","aliases":["shiba-inu (erc-20)","shib"]}
+{
+  "name": "Shiba Inu (ERC-20)",
+  "code": "SHIB",
+  "aliases": ["shiba-inu", "shib"]
+}

@@ -1,1 +1,5 @@
-{"name":"Coin ABBC","code":"ABBC","aliases":["coin-abbc","abbc"]}
+{
+  "name": "ABBC",
+  "code": "ABBC",
+  "aliases": ["abbc", "ABBC"]
+}

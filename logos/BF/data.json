@@ -1,1 +1,5 @@
-{"name":"BitForex Token","code":"BF","aliases":["bitforex-token","bf"]}
+{
+  "name": "BitForex Token",
+  "code": "BF",
+  "aliases": ["bitforex-token", "bf"]
+}

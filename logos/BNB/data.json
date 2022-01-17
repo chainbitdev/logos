@@ -1,1 +1,5 @@
-{"name":"Binance Coin (BEP-2)","code":"bnb","aliases":["binance-coin (bep-2)","bnb"]}
+{
+  "name": "Binance Coin (BEP-2)",
+  "code": "BNB",
+  "aliases": ["binance-coin-bep-2", "bnb"]
+}

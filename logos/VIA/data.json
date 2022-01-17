@@ -1,1 +1,5 @@
-{"name":"Viacoin","code":"VIA","aliases":["viacoin","via"]}
+{
+  "name": "Viacoin",
+  "code": "VIA",
+  "aliases": ["viacoin", "via"]
+}

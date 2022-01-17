@@ -1,1 +1,5 @@
-{"name":"Counterparty","code":"XCP","aliases":["counterparty","xcp"]}
+{
+  "name": "Counterparty",
+  "code": "XCP",
+  "aliases": ["counterparty", "xcp"]
+}

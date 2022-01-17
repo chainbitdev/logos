@@ -1,1 +1,5 @@
-{"name":"XRP","code":"xrp","aliases":["xrp"]}
+{
+  "name": "XRP",
+  "code": "xrp",
+  "aliases": ["xrp"]
+}

@@ -1,1 +1,5 @@
-{"name":"Nebulas","code":"NAS","aliases":["nebulas","nas"]}
+{
+  "name": "Nebulas",
+  "code": "NAS",
+  "aliases": ["nebulas", "nas"]
+}

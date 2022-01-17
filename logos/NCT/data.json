@@ -1,1 +1,5 @@
-{"name":"PolySwarm","code":"NCT","aliases":["polyswarm","nct"]}
+{
+  "name": "PolySwarm",
+  "code": "NCT",
+  "aliases": ["polyswarm", "nct"]
+}

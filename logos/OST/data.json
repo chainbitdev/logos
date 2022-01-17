@@ -1,1 +1,5 @@
-{"name":"OST","code":"OST","aliases":["ost"]}
+{
+  "name": "OST",
+  "code": "OST",
+  "aliases": ["ost"]
+}

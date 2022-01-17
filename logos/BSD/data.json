@@ -1,1 +1,5 @@
-{"name":"BitSend","code":"BSD","aliases":["bitsend","bsd"]}
+{
+  "name": "BitSend",
+  "code": "BSD",
+  "aliases": ["bitsend", "bsd"]
+}

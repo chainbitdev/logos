@@ -1,1 +1,5 @@
-{"name":"Bitcore","code":"BTX","aliases":["bitcore","btx"]}
+{
+  "name": "Bitcore",
+  "code": "BTX",
+  "aliases": ["bitcore", "btx"]
+}

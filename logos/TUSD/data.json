@@ -1,1 +1,5 @@
-{"name":"TrueUSD","code":"tusd","aliases":["trueusd","tusd"]}
+{
+  "name": "TrueUSD",
+  "code": "tusd",
+  "aliases": ["trueusd", "tusd"]
+}

@@ -1,1 +1,5 @@
-{"name":"All Sports","code":"SOC","aliases":["all-sports","soc"]}
+{
+  "name": "All Sports",
+  "code": "SOC",
+  "aliases": ["all-sports", "soc"]
+}

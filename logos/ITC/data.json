@@ -1,1 +1,5 @@
-{"name":"IoT Chain","code":"ITC","aliases":["iot-chain","itc"]}
+{
+  "name": "IoT Chain",
+  "code": "ITC",
+  "aliases": ["iot-chain", "itc"]
+}

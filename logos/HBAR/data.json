@@ -1,1 +1,5 @@
-{"name":"Hedera Hashgraph","code":"hbar","aliases":["hedera-hashgraph","hbar"]}
+{
+  "name": "Hedera Hashgraph",
+  "code": "hbar",
+  "aliases": ["hedera-hashgraph", "hbar"]
+}

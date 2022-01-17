@@ -1,1 +1,5 @@
-{"name":"Experience Points","code":"XP","aliases":["experience-points","xp"]}
+{
+  "name": "Experience Points",
+  "code": "XP",
+  "aliases": ["experience-points", "xp"]
+}

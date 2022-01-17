@@ -1,1 +1,5 @@
-{"name":"Primecoin","code":"XPM","aliases":["primecoin","xpm"]}
+{
+  "name": "Primecoin",
+  "code": "XPM",
+  "aliases": ["primecoin", "xpm"]
+}

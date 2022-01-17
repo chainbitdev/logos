@@ -1,1 +1,5 @@
-{"name":"Santiment Network Token","code":"SAN","aliases":["santiment-network token","san"]}
+{
+  "name": "Santiment Network Token",
+  "code": "SAN",
+  "aliases": ["santiment-network-token", "san"]
+}

@@ -1,1 +1,5 @@
-{"name":"Litecoin","code":"ltc","aliases":["litecoin","ltc"]}
+{
+  "name": "Litecoin",
+  "code": "ltc",
+  "aliases": ["litecoin", "ltc"]
+}

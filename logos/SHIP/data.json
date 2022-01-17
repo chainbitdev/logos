@@ -1,1 +1,5 @@
-{"name":"ShipChain","code":"SHIP","aliases":["shipchain","ship"]}
+{
+  "name": "ShipChain",
+  "code": "SHIP",
+  "aliases": ["shipchain", "ship"]
+}

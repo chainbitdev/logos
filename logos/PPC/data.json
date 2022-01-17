@@ -1,1 +1,5 @@
-{"name":"Peercoin","code":"PPC","aliases":["peercoin","ppc"]}
+{
+  "name": "Peercoin",
+  "code": "PPC",
+  "aliases": ["peercoin", "ppc"]
+}

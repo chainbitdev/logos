@@ -1,1 +1,5 @@
-{"name":"USD Coin (ERC-20)","code":"usdc","aliases":["usd-coin (erc-20)","usdc"]}
+{
+  "name": "USD Coin (ERC-20)",
+  "code": "usdc",
+  "aliases": ["usd-coin", "usdc"]
+}

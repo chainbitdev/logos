@@ -1,1 +1,5 @@
-{"name":"Binance USD (BEP-2)","code":"busd","aliases":["binance-usd (bep-2)","busd"]}
+{
+  "name": "Binance USD (BEP-2)",
+  "code": "busd",
+  "aliases": ["binance-usd-bep-2", "busd"]
+}

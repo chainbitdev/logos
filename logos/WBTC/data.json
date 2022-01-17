@@ -1,1 +1,5 @@
-{"name":"Wrapped Bitcoin","code":"wbtc","aliases":["wrapped-bitcoin","wbtc"]}
+{
+  "name": "Wrapped Bitcoin",
+  "code": "wbtc",
+  "aliases": ["wrapped-bitcoin", "wbtc"]
+}

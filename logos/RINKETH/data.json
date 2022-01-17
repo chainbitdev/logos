@@ -1,1 +1,5 @@
-{"name":"Ethereum (Rinkeby)","code":"rinketh","aliases":["ethereum-(rinkeby)","rinketh"]}
+{
+  "name": "Ethereum (Rinkeby)",
+  "code": "rinketh",
+  "aliases": ["ethereum-rinkeby", "rinketh"]
+}

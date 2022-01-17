@@ -1,1 +1,5 @@
-{"name":"Syscoin","code":"SYS","aliases":["syscoin","sys"]}
+{
+  "name": "Syscoin",
+  "code": "SYS",
+  "aliases": ["syscoin", "sys"]
+}

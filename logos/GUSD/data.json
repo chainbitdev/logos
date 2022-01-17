@@ -1,1 +1,5 @@
-{"name":"Gemini Dollar","code":"GUSD","aliases":["gemini-dollar","gusd"]}
+{
+  "name": "Gemini Dollar",
+  "code": "GUSD",
+  "aliases": ["gemini-dollar", "gusd"]
+}

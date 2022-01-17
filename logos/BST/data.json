@@ -1,1 +1,5 @@
-{"name":"BlockStamp","code":"BST","aliases":["blockstamp","bst"]}
+{
+  "name": "BlockStamp",
+  "code": "BST",
+  "aliases": ["blockstamp", "bst"]
+}

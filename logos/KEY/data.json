@@ -1,1 +1,5 @@
-{"name":"SelfKey","code":"key","aliases":["selfkey","key"]}
+{
+  "name": "SelfKey",
+  "code": "KEY",
+  "aliases": ["selfkey", "key"]
+}

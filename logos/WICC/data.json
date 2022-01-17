@@ -1,1 +1,5 @@
-{"name":"WaykiChain","code":"WICC","aliases":["waykichain","wicc"]}
+{
+  "name": "WaykiChain",
+  "code": "WICC",
+  "aliases": ["waykichain", "wicc"]
+}

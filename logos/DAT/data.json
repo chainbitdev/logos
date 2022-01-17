@@ -1,1 +1,5 @@
-{"name":"Datum","code":"DAT","aliases":["datum","dat"]}
+{
+  "name": "Datum",
+  "code": "DAT",
+  "aliases": ["datum", "dat"]
+}

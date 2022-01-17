@@ -1,1 +1,5 @@
-{"name":"Bitcoin Diamond","code":"BCD","aliases":["bitcoin-diamond","bcd"]}
+{
+  "name": "Bitcoin Diamond",
+  "code": "BCD",
+  "aliases": ["bitcoin-diamond", "bcd"]
+}
