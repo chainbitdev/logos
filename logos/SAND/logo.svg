@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00adef"/>
+      <stop offset="1" stop-color="#0084ff"/>
+    </linearGradient>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <g id="sand">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="16" cy="16" r="16" fill="url(#linear-gradient)"/>
+      <path id="Path_1" data-name="Path 1" d="M1.952,1303.7,0,1305.653v7.8l1.952,1.949H9.765v3.9h-3.9v-1.949H0v3.9l1.952,1.949H13.673l1.952-1.949v-7.8l-1.952-1.953H5.86v-3.9h3.9v1.949h5.862v-3.9l-1.952-1.953Z" transform="translate(8.25 -1297.449)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

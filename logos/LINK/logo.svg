@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.8 43.6"><defs><style>.cls-1{fill:#2a5ada;}</style></defs><title>Asset 1</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M18.9,0l-4,2.3L4,8.6,0,10.9V32.7L4,35l11,6.3,4,2.3,4-2.3L33.8,35l4-2.3V10.9l-4-2.3L22.9,2.3ZM8,28.1V15.5L18.9,9.2l10.9,6.3V28.1L18.9,34.4Z"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <g id="algo">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="16" cy="16" r="16" fill="#2a5ada"/>
+    </g>
+    <path id="chainlink-icon-logo-white" d="M10,0,7.884,1.217,2.116,4.55,0,5.767V17.3l2.116,1.217,5.82,3.333,2.116,1.217,2.116-1.217,5.714-3.333L20,17.3V5.767L17.884,4.55,12.116,1.217,10,0ZM4.233,14.868V8.2L10,4.868,15.767,8.2v6.667L10,18.2Z" transform="translate(6 4)" fill="#fff"/>
+  </g>
+</svg>

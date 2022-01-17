@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <g id="key">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="16" cy="16" r="16" fill="#39e0f7"/>
+      <g id="selfkey" transform="translate(-2)">
+        <path id="Path_2" data-name="Path 2" d="M225.34,137.829a.74.74,0,1,0,0-1.479h-3.355a.837.837,0,0,0-.837.837v9.626a2.926,2.926,0,1,0,1.515-.009v-5.84h1.973a.74.74,0,1,0,0-1.479h-1.973v-1.656Zm-1.8,11.87a1.617,1.617,0,1,1-1.616-1.656A1.635,1.635,0,0,1,223.54,149.7Z" transform="translate(-205.016 -128.511)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

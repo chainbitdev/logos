@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-custom_1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="custom_1" data-name="custom – 1" clip-path="url(#clip-custom_1)">
+    <g id="rvn">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="16" cy="16" r="16" fill="#ff564f"/>
+    </g>
+    <g id="logo" transform="translate(-131 -81)">
+      <path id="Path_3" data-name="Path 3" d="M63.151,69.631l1.038,3.11,7.128-9.32L64.189,54.1,63.1,57.142l4.734,6.277Z" transform="translate(77.524 33.9)" fill="#fff" opacity="0.2"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="2.711" height="18.64" transform="translate(139 88)" fill="#fff"/>
+      <path id="Path_9" data-name="Path 9" d="M114.832,72.74h-3.383l-7.129-9.32,7.129-9.319h3.382L107.8,63.419Z" transform="translate(41.038 33.9)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
