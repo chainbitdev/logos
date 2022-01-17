@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 29 32.9"><title>blockcat-small</title><g id="Image-_-BlockCATLogo" data-name="Image-/-BlockCATLogo"><g id="BlockCAT-Logo"><polygon id="Fill-1" points="0 24.8 14.5 32.9 14.5 18.8 0 10.7 0 24.8" style="fill:#ccc"/><polygon id="Fill-2" points="0 10.7 14.5 18.8 29 10.7 14.5 2.6 0 10.7" style="fill:#f2f2f2"/><polygon id="Fill-3" points="14.5 18.8 14.5 32.9 29 24.8 29 10.7 14.5 18.8" style="fill:#e6e6e6"/><polygon id="Fill-4" points="17.4 17.2 14.5 18.8 11.6 17.2 17.4 17.2" style="fill:#686868"/><polygon id="Fill-5" points="14.5 21.7 17.4 17.2 14.5 18.8 14.5 21.7" style="fill:#383838"/><polygon id="Fill-6" points="14.5 21.7 11.6 17.2 14.5 18.8 14.5 21.7"/><polygon id="Fill-7" points="0 0 0 10.7 11.5 11.9 0 0" style="fill:#f2f2f2"/><polygon id="Fill-8" points="29 0 19 10.3 29 10.7 29 0" style="fill:#f2f2f2"/><polygon id="Fill-9" points="26.8 5.3 24.2 8 26.8 9.5 26.8 5.3" style="fill:#383838"/><polygon id="Fill-10" points="2.2 5.5 4.7 8.1 2.2 9.5 2.2 5.5" style="fill:#383838"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="a">
+      <path d="M0 0h32v32H0z"/>
+    </clipPath>
+  </defs>
+  <g data-name="Custom Size – 1" clip-path="url(#a)">
+    <circle data-name="Ellipse 1" cx="16" cy="16" r="16" fill="#fbcc5c"/>
+    <g data-name="Group 1">
+      <path data-name="Path 2" d="M25.408 14.08a7.513 7.513 0 0 0-14.4-3.008 7.511 7.511 0 1 0 9.952 9.856 7.4 7.4 0 0 0 4.448-6.848Zm-6.3 4.96a4.711 4.711 0 0 1-1.152.128 5.1 5.1 0 0 1-5.096-5.088 4.055 4.055 0 0 1 .128-1.088 4.711 4.711 0 0 1 1.152-.128 5.08 5.08 0 0 1 5.088 5.088c-.028.384-.06.736-.124 1.088Zm-10.08-1.088a5.126 5.126 0 0 1 1.408-3.52A7.544 7.544 0 0 0 17.66 21.6a5.069 5.069 0 0 1-8.64-3.648Zm12.608-.352a7.544 7.544 0 0 0-7.232-7.168 5.069 5.069 0 0 1 8.64 3.616 5.388 5.388 0 0 1-1.412 3.552Z" fill="#f9b73e"/>
+      <path data-name="Path 3" d="M25.152 14.08a7.2 7.2 0 0 0-13.856-2.752 7.2 7.2 0 1 0 9.472 9.376 7.266 7.266 0 0 0 4.384-6.624Zm-11.04 9.28a5.4 5.4 0 0 1-3.36-9.632v.352a7.211 7.211 0 0 0 7.2 7.2h.448a5.462 5.462 0 0 1-4.288 2.08Zm5.248-4.064a5.157 5.157 0 0 1-1.408.192 5.422 5.422 0 0 1-5.408-5.408 4.548 4.548 0 0 1 .192-1.344 5.157 5.157 0 0 1 1.408-.192 5.422 5.422 0 0 1 5.408 5.408 8.491 8.491 0 0 1-.192 1.344Zm1.952-.992v-.352a7.211 7.211 0 0 0-7.2-7.2h-.448a5.353 5.353 0 0 1 4.256-2.08 5.416 5.416 0 0 1 3.392 9.632Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

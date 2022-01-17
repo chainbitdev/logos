@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 2000 2000"><circle cx="1000" cy="1000" r="1000" style="fill:#f0b90b"/><path d="M574.41,746l426-426,169.86,169.86-426,426Zm.31,509.06,680.79-680.79,169.86,169.86L744.58,1424.92Zm935.41-425.69L829.34,1510.16,999.19,1680,1680,999.22ZM320,1000.36,489.86,830.5l169.86,169.86L489.86,1170.22Z" style="fill:#fff;fill-rule:evenodd"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 29 32.9">
+  <g data-name="Image-/-BlockCATLogo">
+    <path fill="#ccc" d="m0 24.8 14.5 8.1V18.8L0 10.7v14.1z"/>
+    <path fill="#f2f2f2" d="m0 10.7 14.5 8.1L29 10.7 14.5 2.6 0 10.7z"/>
+    <path fill="#e6e6e6" d="M14.5 18.8v14.1L29 24.8V10.7l-14.5 8.1z"/>
+    <path fill="#686868" d="m17.4 17.2-2.9 1.6-2.9-1.6h5.8z"/>
+    <path fill="#383838" d="m14.5 21.7 2.9-4.5-2.9 1.6v2.9z"/>
+    <path d="m14.5 21.7-2.9-4.5 2.9 1.6v2.9z"/>
+    <path fill="#f2f2f2" d="M0 0v10.7l11.5 1.2L0 0zm29 0L19 10.3l10 .4V0z"/>
+    <path fill="#383838" d="M26.8 5.3 24.2 8l2.6 1.5V5.3zm-24.6.2 2.5 2.6-2.5 1.4v-4z"/>
+  </g>
+</svg>

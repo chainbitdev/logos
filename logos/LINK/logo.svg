@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <clipPath id="clip-Custom_Size_1">
-      <rect width="32" height="32"/>
-    </clipPath>
-  </defs>
-  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
-    <g id="algo">
-      <circle id="Ellipse_1" data-name="Ellipse 1" cx="16" cy="16" r="16" fill="#2a5ada"/>
-    </g>
-    <path id="chainlink-icon-logo-white" d="M10,0,7.884,1.217,2.116,4.55,0,5.767V17.3l2.116,1.217,5.82,3.333,2.116,1.217,2.116-1.217,5.714-3.333L20,17.3V5.767L17.884,4.55,12.116,1.217,10,0ZM4.233,14.868V8.2L10,4.868,15.767,8.2v6.667L10,18.2Z" transform="translate(6 4)" fill="#fff"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 42">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="-737.59" y1="1153.193" x2="-737.59" y2="1151.688" gradientTransform="matrix(23.9584 0 0 -19.5222 17693.492 22530.762)">
+    <stop offset="0" stop-color="#ff0029"/>
+    <stop offset="1" stop-color="#ab00ff"/>
+  </linearGradient>
+  <path d="m10 42 12-12.2L34 42v-7.3L22 22.5 10 34.7z" fill="url(#a)"/>
+  <path d="M0 17.3h16.9l5.1 5.2H5.1z" fill="#ff8f1c"/>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-735.504" y1="1160.775" x2="-734.247" y2="1159.409" gradientTransform="matrix(22.0159 0 0 -22.4778 16209.264 26093.193)">
+    <stop offset="0" stop-color="#ff9100"/>
+    <stop offset=".515" stop-color="#ff0029"/>
+    <stop offset="1" stop-color="#ab00ff"/>
+  </linearGradient>
+  <path d="M44 17.3H27.1V5.2L22 0v22.5h17z" fill="url(#b)"/>
 </svg>

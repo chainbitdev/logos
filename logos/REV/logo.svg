@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 198 198" width="2500" height="2500"><style>.st0{fill:url(#SVGID_1_)}.st1{fill:#fff}</style><linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48.215" y1="34.676" x2="171.281" y2="189.785"><stop offset="0" stop-color="#771a4e"/><stop offset=".5" stop-color="#5e1953"/><stop offset=".875" stop-color="#430f4e"/><stop offset="1" stop-color="#3a0c4c"/></linearGradient><path class="st0" d="M.3 0h198v198H.3z"/><path class="st1" d="M51.8 40v131l28-15V56l40 23-30 16v33l67 46v-31l-41-29 34-18V64l-70-39z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="a">
+      <path d="M0 0h32v32H0z"/>
+    </clipPath>
+  </defs>
+  <g data-name="Custom Size – 1" clip-path="url(#a)">
+    <circle data-name="Ellipse 1" cx="16" cy="16" r="16" fill="#fff"/>
+    <path data-name="Rectangle 1" fill="#002060" d="M11.765 9.234 16 4.999l4.235 4.235L16 13.469z"/>
+    <path data-name="Rectangle 2" fill="#002060" d="M11.765 22.765 16 18.53l4.235 4.235L16 27z"/>
+    <path data-name="Rectangle 3" fill="#002060" d="m18.53 16.033 4.235-4.235L27 16.033l-4.235 4.235z"/>
+    <path data-name="Path 8" d="m17.247 16.029 2.982-2.982 2.982 2.982-2.982 2.982Z" fill="#4e87f7"/>
+    <path data-name="Rectangle 4" fill="#002060" d="m5 16.033 4.235-4.235 4.235 4.235-4.235 4.235z"/>
+    <path data-name="Path 9" d="m8.779 16.029 2.982-2.982 2.982 2.982-2.982 2.982Z" fill="#4e87f7"/>
+    <path data-name="Path 10" d="m13.013 11.794 2.982-2.982 2.982 2.982-2.982 2.982Z" fill="#4e87f7"/>
+    <path data-name="Path 11" d="m13.013 20.263 2.982-2.982 2.982 2.982-2.982 2.982Z" fill="#4e87f7"/>
+  </g>
+</svg>
