@@ -1,5 +1,1 @@
-{
-  "name": "EDUCare",
-  "code": "EKT",
-  "aliases": ["educare", "ekt"]
-}
+{ "name": "EDUCare", "code": "EKT", "aliases": ["educare"] }

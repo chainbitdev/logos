@@ -1,5 +1,1 @@
-{
-  "name": "Paxos Standard",
-  "code": "PAX",
-  "aliases": ["paxos-standard", "pax"]
-}
+{ "name": "Paxos Standard", "code": "PAX", "aliases": ["paxos-standard"] }

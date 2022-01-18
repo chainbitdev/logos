@@ -1,5 +1,1 @@
-{
-  "name": "WAX",
-  "code": "WAXP",
-  "aliases": ["wax", "waxp"]
-}
+{ "name": "WAX", "code": "WAXP", "aliases": ["wax"] }

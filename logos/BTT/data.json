@@ -1,5 +1,1 @@
-{
-  "name": "BitTorrent Token",
-  "code": "BTT",
-  "aliases": ["bittorrent-token", "btt"]
-}
+{ "name": "BitTorrent Token", "code": "BTT", "aliases": ["bittorrent-token"] }

@@ -1,5 +1,1 @@
-{
-  "name": "Ternio",
-  "code": "TERN",
-  "aliases": ["ternio", "tern"]
-}
+{ "name": "Ternio", "code": "TERN", "aliases": ["ternio"] }

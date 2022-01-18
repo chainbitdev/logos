@@ -1,5 +1,1 @@
-{
-  "name": "Cindicator",
-  "code": "CND",
-  "aliases": ["cindicator", "cnd"]
-}
+{ "name": "Cindicator", "code": "CND", "aliases": ["cindicator"] }

@@ -1,5 +1,1 @@
-{
-  "name": "Centrality",
-  "code": "CENNZ",
-  "aliases": ["centrality", "cennz"]
-}
+{ "name": "Centrality", "code": "CENNZ", "aliases": ["centrality"] }

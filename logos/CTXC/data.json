@@ -1,5 +1,1 @@
-{
-  "name": "Cortex",
-  "code": "CTXC",
-  "aliases": ["cortex", "ctxc"]
-}
+{ "name": "Cortex", "code": "CTXC", "aliases": ["cortex"] }

@@ -1,5 +1,1 @@
-{
-  "name": "DAI (zkSync)",
-  "code": "DAI_ZKSYNC",
-  "aliases": ["dai-zksync", "dai_zksync"]
-}
+{ "name": "DAI (zkSync)", "code": "DAI_ZKSYNC", "aliases": ["dai-(zksync)"] }

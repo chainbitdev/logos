@@ -1,5 +1,1 @@
-{
-  "name": "Network LTO",
-  "code": "LTO",
-  "aliases": ["network-lto", "lto"]
-}
+{ "name": "LTO Network", "code": "LTO", "aliases": ["lto-network"] }

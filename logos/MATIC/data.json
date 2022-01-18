@@ -1,5 +1,1 @@
-{
-  "name": "Polygon (ERC-20)",
-  "code": "MATIC",
-  "aliases": ["polygon-erc-20", "matic"]
-}
+{ "name": "Polygon (ERC-20)", "code": "MATIC", "aliases": ["polygon-(erc-20)"] }

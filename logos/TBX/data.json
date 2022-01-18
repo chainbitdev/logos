@@ -1,5 +1,1 @@
-{
-  "name": "Tokenbox",
-  "code": "TBX",
-  "aliases": ["tokenbox", "tbx"]
-}
+{ "name": "Tokenbox", "code": "TBX", "aliases": ["tokenbox"] }

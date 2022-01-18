@@ -1,5 +1,1 @@
-{
-  "name": "Ryo Currency",
-  "code": "RYO",
-  "aliases": ["ryo-currency", "ryo"]
-}
+{ "name": "Ryo Currency", "code": "RYO", "aliases": ["ryo-currency"] }

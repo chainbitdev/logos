@@ -1,5 +1,1 @@
-{
-  "name": "DigitalNote",
-  "code": "XDN",
-  "aliases": ["digitalnote", "xdn"]
-}
+{ "name": "DigitalNote", "code": "XDN", "aliases": ["digitalnote"] }

@@ -1,5 +1,1 @@
-{
-  "name": "Celo Dollar",
-  "code": "CUSD",
-  "aliases": ["celo-dollar", "cusd"]
-}
+{ "name": "Celo Dollar", "code": "CUSD", "aliases": ["celo-dollar"] }

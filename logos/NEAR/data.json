@@ -1,5 +1,1 @@
-{
-  "name": "NEAR Protocol",
-  "code": "NEAR",
-  "aliases": ["near-protocol", "near"]
-}
+{ "name": "NEAR Protocol", "code": "NEAR", "aliases": ["near-protocol"] }

@@ -1,5 +1,1 @@
-{
-  "name": "Ravencoin",
-  "code": "RVN",
-  "aliases": ["ravencoin", "rvn"]
-}
+{ "name": "Ravencoin", "code": "RVN", "aliases": ["ravencoin"] }

@@ -1,5 +1,1 @@
-{
-  "name": "Metadium",
-  "code": "META",
-  "aliases": ["metadium", "meta"]
-}
+{ "name": "Metadium", "code": "META", "aliases": ["metadium"] }

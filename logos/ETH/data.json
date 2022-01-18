@@ -1,5 +1,1 @@
-{
-  "name": "Ethereum",
-  "code": "ETH",
-  "aliases": ["ethereum", "eth"]
-}
+{ "name": "Ethereum", "code": "ETH", "aliases": ["ethereum"] }

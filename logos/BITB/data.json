@@ -1,5 +1,1 @@
-{
-  "name": "Bean Cash",
-  "code": "BITB",
-  "aliases": ["bean-cash", "bitb"]
-}
+{ "name": "Bean Cash", "code": "BITB", "aliases": ["bean-cash"] }

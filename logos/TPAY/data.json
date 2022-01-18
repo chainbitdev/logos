@@ -1,5 +1,1 @@
-{
-  "name": "TokenPay",
-  "code": "TPAY",
-  "aliases": ["tokenpay", "tpay"]
-}
+{ "name": "TokenPay", "code": "TPAY", "aliases": ["tokenpay"] }

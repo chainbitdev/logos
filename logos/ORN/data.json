@@ -1,5 +1,1 @@
-{
-  "name": "Orion (ERC-20)",
-  "code": "ORN",
-  "aliases": ["orion-erc-20", "orn"]
-}
+{ "name": "Orion (ERC-20)", "code": "ORN", "aliases": ["orion-(erc-20)"] }

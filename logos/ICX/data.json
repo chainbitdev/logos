@@ -1,5 +1,1 @@
-{
-  "name": "ICON",
-  "code": "ICX",
-  "aliases": ["icon", "icx"]
-}
+{ "name": "url", "code": "ICX", "aliases": ["url"] }

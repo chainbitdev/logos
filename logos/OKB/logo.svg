@@ -1,17 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
   <defs>
-    <clipPath id="a">
-      <path d="M0 0h32v32H0z"/>
+    <clipPath id="clip-custom_1">
+      <rect width="32" height="32"/>
     </clipPath>
   </defs>
-  <g data-name="Custom Size – 1" clip-path="url(#a)">
-    <g transform="translate(-68 -161)">
-      <circle data-name="Ellipse 1" cx="16" cy="16" r="16" transform="translate(68 161)" fill="#eb1a6b"/>
-      <g data-name="om">
-        <path data-name="Path 1" d="M87.102 180.072c.4.251.6.4.822.528a3.287 3.287 0 0 0 3.8.075 2.5 2.5 0 0 0 .623-3.117 2.869 2.869 0 0 0-3.146-1.86 3.08 3.08 0 0 0-1.785 1.006c-.907 1.156-1.219 2.64-2.721 3.419-.2.1-.142.679-.142 1.031.028 2.514-2.041 4.45-5.017 4.7-2.352.2-5.867-1.483-5.838-3.821a20.582 20.582 0 0 0 3.77 1.458 7.7 7.7 0 0 0 3.543-.2 2.544 2.544 0 0 0 1.956-2.766c-.17-.955-.6-1.207-2.778-1.534a41.503 41.503 0 0 1-.425-1.835c.227-.025.4-.075.567-.075.992-.075 2.069-.1 2.154-1.332a2.079 2.079 0 0 0-2.182-2.036 18.279 18.279 0 0 0-3.656 1.081c-.255-.352-.68-.93-1.077-1.508a5.3 5.3 0 0 1 6.632-.83c1.9 1.207 2.069 3.143.4 5.405.482.4.964.8 1.644 1.383.227-.6.34-1.031.51-1.433a8.018 8.018 0 0 1 .765-1.735 4.263 4.263 0 0 1 7.7.625 4.95 4.95 0 0 1 0 4.252 3.88 3.88 0 0 1-3.451 1.937 2.763 2.763 0 0 1-2.668-2.818Z"/>
-        <path data-name="Path 2" d="M81.632 170.442a6.332 6.332 0 0 0 7.227-.025c.425.6.794 1.106 1.162 1.609-2.749 1.911-7.227.931-8.389-1.584Z"/>
-        <path data-name="Path 3" d="M83.508 169.118c.468-.572.832-.988 1.274-1.508.52.546.858.91 1.274 1.378-.39.442-.754.832-1.222 1.326-.442-.39-.833-.754-1.326-1.196Z"/>
-      </g>
+  <g id="custom_1" data-name="custom – 1" clip-path="url(#clip-custom_1)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="16" cy="16" r="16" fill="#4b85ee"/>
+    <g id="okb" transform="translate(5 5)">
+      <circle id="Oval" cx="5.208" cy="5.208" r="5.208" transform="translate(6.292)" fill="#fff"/>
+      <circle id="Oval-Copy" cx="5.208" cy="5.208" r="5.208" transform="translate(6.292 12.585)" fill="#fff"/>
+      <circle id="Oval-Copy-2" cx="5.208" cy="5.208" r="5.208" transform="translate(12.585 6.292)" fill="#fff"/>
+      <circle id="Oval-Copy-3" cx="5.208" cy="5.208" r="5.208" transform="translate(0 6.292)" fill="#fff"/>
+      <path id="Combined-Shape" d="M63.23,63.23A5.208,5.208,0,0,1,59.4,59.4,5.241,5.241,0,0,1,63.23,63.23Z" transform="translate(-52.956 -52.956)" fill="#a7c4f7"/>
+      <path id="Combined-Shape-2" data-name="Combined-Shape" d="M59.3,121.23a5.208,5.208,0,0,1,3.83-3.83A5.241,5.241,0,0,1,59.3,121.23Z" transform="translate(-52.867 -104.663)" fill="#a7c4f7"/>
+      <path id="Combined-Shape-3" data-name="Combined-Shape" d="M117.3,117.3a5.208,5.208,0,0,1,3.83,3.83A5.241,5.241,0,0,1,117.3,117.3Z" transform="translate(-104.574 -104.574)" fill="#a7c4f7"/>
+      <path id="Combined-Shape-4" data-name="Combined-Shape" d="M121.23,59.3a5.208,5.208,0,0,1-3.83,3.83A5.241,5.241,0,0,1,121.23,59.3Z" transform="translate(-104.663 -52.866)" fill="#a7c4f7"/>
     </g>
   </g>
 </svg>

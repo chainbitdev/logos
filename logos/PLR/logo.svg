@@ -1,3 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 348.9 252.6">
-  <path fill="#1e69ff" d="M35.8 134.3 0 252.6h76.9l35.8-118.3H35.8zM270.2 0h-95.4l-24.1 78.7h85.7c15.2 0 24 12.5 19.3 27.8s-21 27.8-36.3 27.8h-85.8l-1.6 5.1-22.4 73.6H205c58.7 0 121.1-47.8 139-106.4C362 47.7 328.9 0 270.2 0ZM153.8 0h-77l-24 78.7h77l24-78.7z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 2474.3 2474.3" style="enable-background:new 0 0 2474.3 2474.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00FF24;}
+</style>
+<path class="st0" d="M0,0h2474.3v2474.3H0V0z"/>
+<g transform="matrix(.1 0 0 -.1 0 801)">
+	<path d="M15074.2-2162v-4778.7h-3830.3H7413.6v-1430.2V-9798l1430.2-1430.2c784.6-784.6,1436.4-1427.1,1451.8-1427.1   c12.4,0,21.6,639.4,21.6,1420.9v1420.9h3814.9H17947v4781.7V-253l-1436.4,1436.4l-1436.4,1436.4L15074.2-2162z"/>
+	<path d="M7413.6-1195.2v-1915.2h1930.6h1930.6v1915.2V720H9344.2H7413.6V-1195.2z"/>
+</g>
 </svg>

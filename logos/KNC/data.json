@@ -1,5 +1,1 @@
-{
-  "name": "Kyber Network",
-  "code": "KNC",
-  "aliases": ["kyber-network", "knc"]
-}
+{ "name": "Kyber Network", "code": "KNC", "aliases": ["kyber-network"] }

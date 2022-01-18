@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="_ÎÓÈ_1" data-name="—ÎÓÈ_1" viewBox="0 0 160 141.18">
-  <defs>
-    <style>
-      .cls-2{fill:#02819b}
-    </style>
-  </defs>
-  <path d="M121.42 141.18 12.1 64.44a28.32 28.32 0 0 1 0-46.39L38.58-.45 147.9 76.3a28.33 28.33 0 0 1 0 46.39ZM38.57 11.89 17.93 26.33a18.21 18.21 0 0 0 0 29.84l103.52 72.67 20.64-14.43a18.22 18.22 0 0 0 0-29.84Z" fill="#4bc0c8"/>
-  <path class="cls-2" d="M38.47 128.77 17.86 114.3a18.22 18.22 0 0 1 0-29.84l53.35-37.3-8.8-6.16-50.32 35.18a28.32 28.32 0 0 0 0 46.39l26.41 18.54 32.67-22.86-8.8-6.18ZM147.95 18.16 121.53-.38 88.83 22.5l8.8 6.18L121.52 12l20.62 14.47a18.22 18.22 0 0 1 0 29.84L88.78 93.58l8.8 6.18 50.33-35.21a28.32 28.32 0 0 0 0-46.39Z"/>
-  <path class="cls-2" transform="rotate(-34.98 42.053 61.342)" d="M16.69 56.3h50.74v10.11H16.69z"/>
-  <path class="cls-2" d="m136.76 60-20.25 14.18 5.79 8.28 21-14.71c-2.2-2.54-4.37-5.14-6.54-7.75Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="Laag_1" viewBox="0 0 44 42" width="2500" height="2386"><style>.st0{fill:url(#SVGID_1_)}.st1{fill:#ff8f1c}.st2{fill:url(#SVGID_2_)}</style><title>logo_updated copy</title><g id="Shape"><linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-737.59" y1="1153.193" x2="-737.59" y2="1151.688" gradientTransform="matrix(23.9584 0 0 -19.5222 17693.492 22530.762)"><stop offset="0" stop-color="#ff0029"/><stop offset="1" stop-color="#ab00ff"/></linearGradient><path class="st0" d="M10 42l12-12.2L34 42v-7.3L22 22.5 10 34.7z"/><path class="st1" d="M0 17.3h16.9l5.1 5.2H5.1z"/><linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-735.504" y1="1160.775" x2="-734.247" y2="1159.409" gradientTransform="matrix(22.0159 0 0 -22.4778 16209.264 26093.193)"><stop offset="0" stop-color="#ff9100"/><stop offset=".515" stop-color="#ff0029"/><stop offset="1" stop-color="#ab00ff"/></linearGradient><path class="st2" d="M44 17.3H27.1V5.2L22 0v22.5h17z"/></g></svg>

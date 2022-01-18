@@ -1,5 +1,1 @@
-{
-  "name": "TOKEN LA",
-  "code": "LA",
-  "aliases": ["token-la", "la"]
-}
+{ "name": "LATOKEN", "code": "LA", "aliases": ["latoken"] }

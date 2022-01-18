@@ -1,5 +1,1 @@
-{
-  "name": "Bibox Token",
-  "code": "BIX",
-  "aliases": ["bibox-token", "bix"]
-}
+{ "name": "Bibox Token", "code": "BIX", "aliases": ["bibox-token"] }

@@ -1,5 +1,1 @@
-{
-  "name": "Ontology",
-  "code": "ONT",
-  "aliases": ["ontology", "ont"]
-}
+{ "name": "Ontology", "code": "ONT", "aliases": ["ontology"] }

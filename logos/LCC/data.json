@@ -1,5 +1,1 @@
-{
-  "name": "Litecoin Cash",
-  "code": "LCC",
-  "aliases": ["litecoin-cash", "lcc"]
-}
+{ "name": "Litecoin Cash", "code": "LCC", "aliases": ["litecoin-cash"] }

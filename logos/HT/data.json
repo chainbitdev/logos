@@ -1,5 +1,1 @@
-{
-  "name": "Huobi Token",
-  "code": "HT",
-  "aliases": ["huobi-token", "ht"]
-}
+{ "name": "Huobi Token", "code": "HT", "aliases": ["huobi-token"] }

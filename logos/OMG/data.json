@@ -1,5 +1,1 @@
-{
-  "name": "OMG Network",
-  "code": "OMG",
-  "aliases": ["omg-network", "omg"]
-}
+{ "name": "OMG Network", "code": "OMG", "aliases": ["omg-network"] }

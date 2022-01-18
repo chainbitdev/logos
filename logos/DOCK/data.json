@@ -1,5 +1,1 @@
-{
-  "name": "Dock",
-  "code": "DOCK",
-  "aliases": ["dock"]
-}
+{ "name": "Dock", "code": "DOCK", "aliases": ["dock"] }

@@ -1,5 +1,1 @@
-{
-  "name": "Wrapped Bitcoin",
-  "code": "WBTC",
-  "aliases": ["wrapped-bitcoin", "wbtc"]
-}
+{ "name": "Wrapped Bitcoin", "code": "WBTC", "aliases": ["wrapped-bitcoin"] }

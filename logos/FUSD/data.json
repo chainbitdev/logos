@@ -1,5 +1,1 @@
-{
-  "name": "Flow USD",
-  "code": "FUSD",
-  "aliases": ["flow-usd", "fusd"]
-}
+{ "name": "Flow USD", "code": "FUSD", "aliases": ["flow-usd"] }

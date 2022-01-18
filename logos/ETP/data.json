@@ -1,5 +1,1 @@
-{
-  "name": "Metaverse",
-  "code": "ETP",
-  "aliases": ["metaverse-etp", "etp"]
-}
+{ "name": "Metaverse ETP", "code": "ETP", "aliases": ["metaverse-etp"] }

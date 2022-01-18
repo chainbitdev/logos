@@ -1,5 +1,1 @@
-{
-  "name": "MinexCoin",
-  "code": "MNX",
-  "aliases": ["minexcoin", "mnx"]
-}
+{ "name": "MinexCoin", "code": "MNX", "aliases": ["minexcoin"] }

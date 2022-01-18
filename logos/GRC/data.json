@@ -1,5 +1,1 @@
-{
-  "name": "GridCoin",
-  "code": "GRC",
-  "aliases": ["gridcoin", "grc"]
-}
+{ "name": "GridCoin", "code": "GRC", "aliases": ["gridcoin"] }

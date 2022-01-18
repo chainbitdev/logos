@@ -1,5 +1,1 @@
-{
-  "name": "ZClassic",
-  "code": "ZCL",
-  "aliases": ["zclassic", "zcl"]
-}
+{ "name": "ZClassic", "code": "ZCL", "aliases": ["zclassic"] }

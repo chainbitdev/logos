@@ -1,5 +1,1 @@
-{
-  "name": "Exchange Union",
-  "code": "XUC",
-  "aliases": ["exchange-union", "xuc"]
-}
+{ "name": "Exchange Union", "code": "XUC", "aliases": ["exchange-union"] }

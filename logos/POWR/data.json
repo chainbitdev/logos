@@ -1,5 +1,1 @@
-{
-  "name": "Power Ledger",
-  "code": "POWR",
-  "aliases": ["power-ledger", "powr"]
-}
+{ "name": "Power Ledger", "code": "POWR", "aliases": ["power-ledger"] }

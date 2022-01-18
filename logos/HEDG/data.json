@@ -1,5 +1,1 @@
-{
-  "name": "HedgeTrade",
-  "code": "HEDG",
-  "aliases": ["hedgetrade", "hedg"]
-}
+{ "name": "HedgeTrade", "code": "HEDG", "aliases": ["hedgetrade"] }

@@ -1,5 +1,1 @@
-{
-  "name": "Bitcoin Plus",
-  "code": "XBC",
-  "aliases": ["bitcoin-plus", "xbc"]
-}
+{ "name": "Bitcoin Plus", "code": "XBC", "aliases": ["bitcoin-plus"] }

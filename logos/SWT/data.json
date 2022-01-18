@@ -1,5 +1,1 @@
-{
-  "name": "Swarm City",
-  "code": "SWT",
-  "aliases": ["swarm-city", "swt"]
-}
+{ "name": "Swarm City", "code": "SWT", "aliases": ["swarm-city"] }

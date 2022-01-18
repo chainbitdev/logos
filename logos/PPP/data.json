@@ -1,5 +1,1 @@
-{
-  "name": "PayPie",
-  "code": "PPP",
-  "aliases": ["paypie", "ppp"]
-}
+{ "name": "PayPie", "code": "PPP", "aliases": ["paypie"] }

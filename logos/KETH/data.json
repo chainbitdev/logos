@@ -1,5 +1,1 @@
-{
-  "name": "Ethereum (Kovan)",
-  "code": "KETH",
-  "aliases": ["ethereum-kovan", "keth"]
-}
+{ "name": "Ethereum (Kovan)", "code": "KETH", "aliases": ["ethereum-(kovan)"] }

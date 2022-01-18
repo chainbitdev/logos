@@ -1,5 +1,1 @@
-{
-  "name": "Cryptonex",
-  "code": "CNX",
-  "aliases": ["cryptonex", "cnx"]
-}
+{ "name": "Cryptonex", "code": "CNX", "aliases": ["cryptonex"] }

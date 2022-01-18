@@ -1,5 +1,1 @@
-{
-  "name": "Elrond eGold",
-  "code": "EGLD",
-  "aliases": ["elrond-egold", "egld"]
-}
+{ "name": "Elrond eGold", "code": "EGLD", "aliases": ["elrond-egold"] }

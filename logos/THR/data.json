@@ -1,5 +1,1 @@
-{
-  "name": "ThoreCoin",
-  "code": "THR",
-  "aliases": ["thorecoin", "thr"]
-}
+{ "name": "ThoreCoin", "code": "THR", "aliases": ["thorecoin"] }

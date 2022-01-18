@@ -1,5 +1,1 @@
-{
-  "name": "Chain QLC",
-  "code": "QLC",
-  "aliases": ["chain-qlc", "qlc"]
-}
+{ "name": "QLC Chain", "code": "QLC", "aliases": ["qlc-chain"] }

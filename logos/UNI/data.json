@@ -1,5 +1,1 @@
-{
-  "name": "Uniswap",
-  "code": "UNI",
-  "aliases": ["uniswap", "uni"]
-}
+{ "name": "Uniswap", "code": "UNI", "aliases": ["uniswap"] }

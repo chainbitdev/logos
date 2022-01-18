@@ -1,5 +1,1 @@
-{
-  "name": "Molecular Future",
-  "code": "MOF",
-  "aliases": ["molecular-future", "mof"]
-}
+{ "name": "Molecular Future", "code": "MOF", "aliases": ["molecular-future"] }

@@ -1,5 +1,1 @@
-{
-  "name": "WePower",
-  "code": "WPR",
-  "aliases": ["wepower", "wpr"]
-}
+{ "name": "WePower", "code": "WPR", "aliases": ["wepower"] }

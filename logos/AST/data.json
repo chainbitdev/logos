@@ -1,5 +1,1 @@
-{
-  "name": "AirSwap",
-  "code": "AST",
-  "aliases": ["airswap", "ast"]
-}
+{ "name": "AirSwap", "code": "AST", "aliases": ["airswap"] }

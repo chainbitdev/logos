@@ -1,5 +1,1 @@
-{
-  "name": "Bitcoin Gold",
-  "code": "BTG",
-  "aliases": ["bitcoin-gold", "btg"]
-}
+{ "name": "Bitcoin Gold", "code": "BTG", "aliases": ["bitcoin-gold"] }

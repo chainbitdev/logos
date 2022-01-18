@@ -1,5 +1,1 @@
-{
-  "name": "StormX",
-  "code": "STMX",
-  "aliases": ["stormx", "stmx"]
-}
+{ "name": "StormX", "code": "STMX", "aliases": ["stormx"] }

@@ -1,5 +1,1 @@
-{
-  "name": "Bitcoin Private",
-  "code": "BTCP",
-  "aliases": ["bitcoin-private", "btcp"]
-}
+{ "name": "Bitcoin Private", "code": "BTCP", "aliases": ["bitcoin-private"] }

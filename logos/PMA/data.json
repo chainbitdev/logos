@@ -1,5 +1,1 @@
-{
-  "name": "PumaPay",
-  "code": "PMA",
-  "aliases": ["pumapay", "pma"]
-}
+{ "name": "PumaPay", "code": "PMA", "aliases": ["pumapay"] }

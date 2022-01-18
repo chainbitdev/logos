@@ -1,5 +1,1 @@
-{
-  "name": "Agoras",
-  "code": "AGRS",
-  "aliases": ["agoras", "agrs"]
-}
+{ "name": "Agoras Tokens", "code": "AGRS", "aliases": ["agoras-tokens"] }

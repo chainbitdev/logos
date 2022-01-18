@@ -1,9 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67.37 67.25">
-  <g data-name="Layer 2">
-    <g data-name="Layer 1">
-      <rect width="67.37" height="67.25" rx="20"/>
-      <rect data-name="b" width="67.37" height="67.25" rx="20" fill="#2cc981"/>
-      <path d="m45.73 10.43 10.84 11.21h-22Zm-23 22.86L11.14 21.74l11.24-11.21 34.26 34.34-11.35 11.19-11.21-11.19-11.29 11.27-11.37-11.35Z" fill="#fff" fill-rule="evenodd"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <g id="om" transform="translate(-68 -161)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="16" cy="16" r="16" transform="translate(68 161)"/>
+    </g>
+    <g id="Page-1" transform="translate(-24.271 -41.906)">
+      <g id="Products-Copy-8" transform="translate(-135 -82)">
+        <g id="logo-tomochain-fl" transform="translate(135 82)">
+          <g id="Group-21" transform="translate(33 47)">
+            <g id="Group-5" transform="translate(0.271 0.906)">
+              <path id="Fill-18" d="M3.333,0V6.666L0,10V3.334Z" transform="translate(0)" fill="#fff" fill-rule="evenodd"/>
+              <path id="Fill-19" d="M13.333,19.822A6.666,6.666,0,0,1,0,19.822V16.489H3.333v3.334a3.334,3.334,0,0,0,6.667,0Z" transform="translate(0 -6.489)" fill="#fff" fill-rule="evenodd"/>
+              <path id="Fill-20" d="M13.333,10.993,10,14.325H0l3.333-3.333Z" transform="translate(0 -4.326)" fill="#00e8b4" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+      </g>
     </g>
   </g>
 </svg>

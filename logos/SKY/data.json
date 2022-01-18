@@ -1,5 +1,1 @@
-{
-  "name": "Skycoin",
-  "code": "SKY",
-  "aliases": ["skycoin", "sky"]
-}
+{ "name": "Skycoin", "code": "SKY", "aliases": ["skycoin"] }

@@ -1,5 +1,1 @@
-{
-  "name": "Ambire AdEx",
-  "code": "ADX",
-  "aliases": ["adex", "adx"]
-}
+{ "name": "AdEx", "code": "ADX", "aliases": ["adex"] }

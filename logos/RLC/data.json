@@ -1,5 +1,1 @@
-{
-  "name": "iExec RLC",
-  "code": "RLC",
-  "aliases": ["iexec-rlc", "rlc"]
-}
+{ "name": "iExec RLC", "code": "RLC", "aliases": ["iexec-rlc"] }

@@ -1,4 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 77.4 63.4">
-  <path d="m64.7 0-26 15L12.6 0 0 7.3V49l12.6-7.3V14.6l26.1 15L77.4 7.3Zm0 63.4 12.7-7.3v-42l-12.7 7.3v42Z" fill="#f79535"/>
-  <path fill="#231f20" d="M58.8 45.4 38.7 33.8 0 56.1l12.6 7.3 14.2-8.2 11.9-6.8L58.8 60V45.4z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <g id="matic" transform="translate(-3 -3)">
+      <path id="Path_6" data-name="Path 6" d="M19,35A16,16,0,1,0,3,19,16,16,0,0,0,19,35Z" fill="#e7efff"/>
+      <path id="Path_9" data-name="Path 9" d="M19,31.579,29.311,37.53V41.5L22.437,37.53v7.935L19,43.481Z" transform="translate(-10.311 -18.418)" fill="#2891f9"/>
+      <path id="Path_10" data-name="Path 10" d="M28.667,56.251V48.316L32.1,50.3v3.967Z" transform="translate(-16.541 -29.204)" fill="#2bbdf7"/>
+      <path id="Path_11" data-name="Path 11" d="M19,27.984,22.437,26l10.311,5.951-3.437,1.984Z" transform="translate(-10.311 -14.822)" fill="#2b6def"/>
+      <path id="Path_12" data-name="Path 12" d="M48,44.721l3.437-1.984V46.7L48,48.688Z" transform="translate(-29 -25.608)" fill="#2bbdf7"/>
+      <path id="Path_13" data-name="Path 13" d="M57.667,31.579v11.9L61.1,45.465v-11.9Z" transform="translate(-35.23 -18.418)" fill="#2891f9"/>
+      <path id="Path_14" data-name="Path 14" d="M70.77,31.579l-3.437,1.984v11.9l3.437-1.984Z" transform="translate(-41.459 -18.418)" fill="#2bbdf7"/>
+      <path id="Path_15" data-name="Path 15" d="M61.1,26l3.437,1.984L61.1,29.967l-3.437-1.984Z" transform="translate(-35.23 -14.822)" fill="#2b6def"/>
+    </g>
+  </g>
 </svg>

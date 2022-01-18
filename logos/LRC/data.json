@@ -1,5 +1,1 @@
-{
-  "name": "Loopring",
-  "code": "LRC",
-  "aliases": ["loopring", "lrc"]
-}
+{ "name": "Loopring", "code": "LRC", "aliases": ["loopring"] }

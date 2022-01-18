@@ -1,5 +1,1 @@
-{
-  "name": "Request",
-  "code": "REQ",
-  "aliases": ["request", "req"]
-}
+{ "name": "Request", "code": "REQ", "aliases": ["request"] }

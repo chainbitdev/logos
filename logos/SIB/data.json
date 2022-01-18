@@ -1,5 +1,1 @@
-{
-  "name": "Coin SIB",
-  "code": "SIB",
-  "aliases": ["coin-sib", "sib"]
-}
+{ "name": "SIBCoin", "code": "SIB", "aliases": ["sibcoin"] }

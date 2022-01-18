@@ -1,5 +1,1 @@
-{
-  "name": "DeepBrain Chain",
-  "code": "DBC",
-  "aliases": ["deepbrain-chain", "dbc"]
-}
+{ "name": "DeepBrain Chain", "code": "DBC", "aliases": ["deepbrain-chain"] }

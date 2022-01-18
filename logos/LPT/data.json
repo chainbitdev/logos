@@ -1,5 +1,1 @@
-{
-  "name": "Livepeer",
-  "code": "LPT",
-  "aliases": ["livepeer", "lpt"]
-}
+{ "name": "Livepeer", "code": "LPT", "aliases": ["livepeer"] }

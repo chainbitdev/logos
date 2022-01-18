@@ -1,5 +1,1 @@
-{
-  "name": "Filecoin",
-  "code": "FIL",
-  "aliases": ["filecoin", "fil"]
-}
+{ "name": "Filecoin", "code": "FIL", "aliases": ["filecoin"] }

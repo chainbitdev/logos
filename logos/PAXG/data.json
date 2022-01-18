@@ -1,5 +1,1 @@
-{
-  "name": "PAX Gold",
-  "code": "PAXG",
-  "aliases": ["pax-gold", "paxg"]
-}
+{ "name": "PAX Gold", "code": "PAXG", "aliases": ["pax-gold"] }

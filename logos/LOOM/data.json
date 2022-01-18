@@ -1,5 +1,1 @@
-{
-  "name": "Loom Network",
-  "code": "LOOM",
-  "aliases": ["loom-network", "loom"]
-}
+{ "name": "Loom Network", "code": "LOOM", "aliases": ["loom-network"] }

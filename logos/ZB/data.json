@@ -1,5 +1,1 @@
-{
-  "name": "Token ZB",
-  "code": "ZB",
-  "aliases": ["token-zb", "zb"]
-}
+{ "name": "ZB Token", "code": "ZB", "aliases": ["zb-token"] }

@@ -1,5 +1,1 @@
-{
-  "name": "SingularDTV",
-  "code": "SNGLS",
-  "aliases": ["singulardtv", "sngls"]
-}
+{ "name": "SingularDTV", "code": "SNGLS", "aliases": ["singulardtv"] }

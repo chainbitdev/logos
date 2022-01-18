@@ -1,5 +1,1 @@
-{
-  "name": "GXChain",
-  "code": "GXC",
-  "aliases": ["gxchain", "gxc"]
-}
+{ "name": "GXChain", "code": "GXC", "aliases": ["gxchain"] }

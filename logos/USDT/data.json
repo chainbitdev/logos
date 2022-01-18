@@ -1,5 +1,1 @@
-{
-  "name": "Tether (ERC-20)",
-  "code": "USDT",
-  "aliases": ["tether-erc-20", "usdt"]
-}
+{ "name": "Tether (ERC-20)", "code": "USDT", "aliases": ["tether-(erc-20)"] }

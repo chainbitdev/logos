@@ -1,5 +1,1 @@
-{
-  "name": "Polymath",
-  "code": "POLY",
-  "aliases": ["polymath", "poly"]
-}
+{ "name": "Polymath", "code": "POLY", "aliases": ["polymath"] }

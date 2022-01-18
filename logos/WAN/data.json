@@ -1,5 +1,1 @@
-{
-  "name": "Wanchain",
-  "code": "WAN",
-  "aliases": ["wanchain", "wan"]
-}
+{ "name": "Wanchain", "code": "WAN", "aliases": ["wanchain"] }
